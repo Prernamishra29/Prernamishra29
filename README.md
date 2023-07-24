@@ -1,9 +1,9 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Prerna Mishra](https://www.linkedin.com/in/prerna-m-8a296b12b/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+### Hi there, I'm [Prerna Mishra](https://www.linkedin.com/in/prerna-m-8a296b12b/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+As a dedicated Computer Science engineering student, I am continuously refining my expertise in software development and actively seeking out innovative technologies. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prernamishra29&label=Profile%20views&color=32CD32&style=flat" alt="prernamishra29" /> </p>
@@ -11,7 +11,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 - 🌱 I’m currently learning <b>C++</b>
 - 🔭 Simultaneously exploring <b>Data Structures</b>
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on *Open Source Projects*
 - 📫 Reach me at : **prernamishra453@gmail.com**</br>
 
 
@@ -27,8 +27,8 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2022-2025 >**\
- 	📖**Bachelor's of technology-< Computer Science and Engineering >**
+ - 📍 *Uttarakhand Technical University*-----------------------**< 2022-2025 >**\
+ 	📖*Bachelor's of technology-< Computer Science and Engineering >*
 
    </details>
    
@@ -46,4 +46,8 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_prernamishra)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prernamishra29" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prernamishra29&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernamishra29&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> |
+<br/>
+    <a href="https://github.com/Prernamishra29/github-readme-stats"><img alt="Prerna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prernamishra29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Prernamishra29/github-readme-stats"><img alt="Prerna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prernamishra29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
