@@ -1,4 +1,8 @@
-# Hi there, I'm [Prerna Mishra](https://www.linkedin.com/in/prerna-m-8a296b12b/) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0D9488&height=200&section=header&text=Hi%20there,%20I'm%20Prerna%20Mishra&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20Engineering%20Graduate&descAlignY=55&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin,html,css,nodejs,mysql,git,github&theme=dark" />
+</p>
 
 Software Developer | CS Engineering Graduate | Always learning, exploring new tech, and contributing to open source 🚀
 
