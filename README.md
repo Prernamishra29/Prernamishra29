@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0D9488&height=200&section=header&text=Hi%20there,%20I'm%20Prerna%20Mishra&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20Engineering%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin,html,css,nodejs,mysql,git,github&theme=dark" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&align=center&line1=c,c;cpp,cpp;java,java;python,python&line2=javascript,js;kotlin,kotlin;html-5,html;css3,css&line3=nodejs,nodejs;mysql,mysql;git,git;github,github&titleAlign=center" />
 </p>
 
 Software Developer | CS Engineering Graduate | Always learning, exploring new tech, and contributing to open source 🚀
